@@ -1,6 +1,3 @@
 # Rasperry-PI-Project
-# This project is for a class, we have no intention to use it for comercial purposes.
-# This project is just beggening, where we are still in the brainstorming and sudo code phase.
-# This is for a Raspberry PI Hardware projects class, I am working with a partner to create some kind of application to implement using the raspberry pi. 
-# Ideas so far include a motion detector application which takes pictures when motion is detected and send said pictures to your email
-# another idea being having a range finder, connected to an lcd or a web display, such that it can be attached to any car
+
+This is for a Raspberry PI Hardware projects class we have no intention to use it for comercial purposes, I worked with a partner to create a simple touch screen friendly alarm clock with a push to send email integration. Alarm clock functions as one would imagine, with the additional feature ofsending an email with a simple pre-prepared message to anyone of your choosing. This in case one snoozes one too many times an realizes they will be late to their comitment and needs to send an email to let the person they are supposed to meet that they will be late.
